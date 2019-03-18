@@ -22,3 +22,5 @@ print("Hello world4");
 print("five");
 
 print("hello world5");
+
+print("hello world6");
