@@ -24,3 +24,4 @@ print("five");
 print("hello world5");
 
 print("hello world6");
+printf("tttt");
